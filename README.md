@@ -57,3 +57,15 @@ dehaze_button.pack()
 
 # Start the main loop
 root.mainloop()
+
+
+
+
+
+![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/631e0ac6-42d9-49a2-ada8-32c5820a4e95)
+
+
+
+
+
+
