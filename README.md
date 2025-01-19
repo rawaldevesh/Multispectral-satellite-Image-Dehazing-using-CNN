@@ -1,66 +1,82 @@
+<h2> Multispectral Satelite Image Dehazing</h2>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multispectral Satellite Image Dehazing Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .button {
-            background-color: #2980b9;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            border-radius: 5px;
-            margin: 10px 0;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Multispectral Satellite Image Dehazing Project</h1>
-        <p>Welcome to the Multispectral Satellite Image Dehazing project! This project aims to enhance the clarity of satellite images by removing haze and improving visibility.</p>
+[Insert a captivating image or GIF of dehazed satellite imagery here]
 
-        <h2>Installation</h2>
-        <pre>
-<code>git clone https://github.com/your-username/your-repository.git
-cd your-repository
-pip install -r requirements.txt</code>
-        </pre>
+A Multispectral Satellite Image Dehazing Project
 
-        <h2>Usage</h2>
-        <p>To dehaze images, run the following command:</p>
-        <pre><code>python dehaze.py</code></pre>
-        <p>You can also use the interactive GUI to select folders and dehaze images:</p>
-        <a href="your-link-to-github-repo" class="button">Open GUI</a>
+This repository contains the code and documentation for a project aimed at enhancing the clarity of multispectral satellite images by removing haze and atmospheric effects.
 
-        <h2>Examples</h2>
-        <p>Here are some examples of dehazed images:</p>
-        <img src="path/to/dehazed-image1.png" alt="Dehazed Image 1">
-        <img src="path/to/dehazed-image2.png" alt="Dehazed Image 2">
+Introduction
 
-        <h2>Contributing</h2>
-        <p>We welcome contributions! Please feel free to submit a pull request or open an issue for any suggestions or improvements.</p>
+Haze and atmospheric distortions significantly degrade the quality of satellite imagery, hindering accurate analysis and interpretation. This project explores effective dehazing techniques specifically tailored for multispectral satellite data.
 
-        <h2>License</h2>
-        <p>This project is licensed under the MIT License.</p>
-    </div>
-</body>
-</html>
+Project Goals
+
+Develop and implement robust dehazing algorithms for multispectral satellite images.
+Evaluate the performance of different dehazing methods using quantitative metrics and visual assessments.
+Investigate the impact of dehazing on downstream applications such as land cover classification, change detection, and vegetation monitoring.
+Key Features
+
+[List key features of your implementation, e.g.,]:
+Support for various multispectral image formats (e.g., GeoTIFF, ENVI).
+Integration with popular remote sensing libraries (e.g., GDAL, Rasterio).
+Implementation of state-of-the-art dehazing algorithms (e.g., Dark Channel Prior, Multi-scale Retinex).
+Interactive visualization tools for comparing original and dehazed images.
+Comprehensive documentation and tutorials.
+Getting Started
+
+Clone the repository:
+
+Bash
+
+git clone https://github.com/[your_username]/[repository_name].git
+Install dependencies:
+
+Bash
+
+pip install -r requirements.txt 
+[Optional: Download and prepare sample data]
+
+Run the dehazing script:
+
+Bash
+
+python dehaze_script.py --input_path [input_image_path] --output_path [output_image_path] 
+Documentation
+
+[Link to documentation (e.g., a Jupyter Notebook or a dedicated documentation website)]
+Results
+
+[Include visual comparisons of original and dehazed images. Consider using a table or a gallery of images.]
+[Present quantitative results (e.g., PSNR, SSIM) and discuss their implications.]
+Future Work
+
+[Outline potential future directions for the project, e.g.,]:
+Explore deep learning-based dehazing methods.
+Develop a user-friendly graphical interface.
+Integrate dehazing into a larger remote sensing workflow.
+Contributing
+
+We welcome contributions from the community! Please feel free to submit bug reports, feature requests, and pull requests.
+
+License
+
+[Specify the license for your project, e.g., MIT License]
+
+Contact
+
+[Provide your contact information (e.g., email address)]
+
+Acknowledgments
+
+[Acknowledge any external libraries, datasets, or individuals who have contributed to the project.]
+
+Remember to:
+
+Replace the placeholders (e.g., [Project Name], [your_username], [repository_name]) with your actual information.
+Add specific details about your implementation, results, and future plans.
+Include high-quality images and visualizations to make the README more engaging.
+Consider using markdown features (e.g., headings, code blocks, links) for better readability.
 
 ![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef)
 
