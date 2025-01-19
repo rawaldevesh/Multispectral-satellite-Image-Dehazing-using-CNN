@@ -1,6 +1,5 @@
 <h2> Multispectral Satelite Image Dehazing</h2>
 
-<p><img align="left" src=https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef eight="40" width="50" alt="rawaldevesh" /></p>
 
 A Multispectral Satellite Image Dehazing Project
 
@@ -78,18 +77,16 @@ Add specific details about your implementation, results, and future plans.
 Include high-quality images and visualizations to make the README more engaging.
 Consider using markdown features (e.g., headings, code blocks, links) for better readability.
 
-![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef)
+
+<p><img align="left" src=https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef eight="100" width="100" alt="rawaldevesh" /></p>
+
+<p><img align="left" src=https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef eight="100" width="150" alt="rawaldevesh" /></p>
+<p><img align="left" src=https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef eight="140" width="150" alt="rawaldevesh" /></p>
+<p><img align="left" src=https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef eight="140" width="150" alt="rawaldevesh" /></p>
 
 
 
 
-![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/631e0ac6-42d9-49a2-ada8-32c5820a4e95)
-
-![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/f078377f-2c24-4b9f-bc68-24e4534337dd)
-
-![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/77f2dd16-39a3-4077-9737-720149100eef)
-
-![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/abe7bac4-b96b-4b16-9f35-248c14920b14)
 
 
 ![image](https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/4f500e34-3344-4caf-b3e2-84322db4afaf)
