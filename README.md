@@ -1,6 +1,6 @@
 <h2> Multispectral Satelite Image Dehazing</h2>
 
-[Insert a captivating image or GIF of dehazed satellite imagery here]
+<p><img align="left" src=https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN/assets/69393586/92e4e133-36c0-46a0-b13c-466efad48eef eight="40" width="50" alt="rawaldevesh" /></p>
 
 A Multispectral Satellite Image Dehazing Project
 
