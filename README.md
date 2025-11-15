@@ -20,12 +20,7 @@ python dehaze.py
 ```
 
 
-## Examples
 
-Here are some examples of dehazed images:
-
-![Dehazed Image 1](path/to/dehazed-image1.png)
-![Dehazed Image 2](path/to/dehazed-image2.png)
 
 ## Contributing
 
