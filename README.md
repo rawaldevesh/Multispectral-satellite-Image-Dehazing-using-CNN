@@ -6,7 +6,7 @@ Welcome to the Multispectral Satellite Image Dehazing project! This project aims
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/rawaldevesh/Multispectral-satellite-Image-Dehazing-using-CNN
 cd your-repository
 pip install -r requirements.txt
 ```
